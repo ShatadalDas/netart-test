@@ -9,7 +9,7 @@ function App() {
 
       <section className="mainSection">
         <article className="article">
-          <img src="src/assets/1.png" alt="" className="trophyImg" />
+          <img src="1.png" alt="" className="trophyImg" />
           
           <main className="main">
             <h1 className="heading">{`C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.`}</h1>
@@ -19,7 +19,7 @@ function App() {
               <li>{`C.R.I. is the highest contributor in the country for the projects of EESL (Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with IoT enabled control panel.`}</li>
             </ul>
 
-            <img src="src/assets/2.png" alt="" className="awardImg" />
+            <img src="2.png" alt="" className="awardImg" />
             <p className="imgDes">
               {`Government of India has awarded the `}
               <span>{`"National Energy Conservation Award 2018"`}</span>
@@ -30,7 +30,7 @@ function App() {
 
         <div className="productsWrapper">
           <h2 className="productsHeading">{`INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.`}</h2>
-          <img src="src/assets/3.png" alt="" className="productsImg" />
+          <img src="3.png" alt="" className="productsImg" />
           <p className="productsName">{`Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors`}</p>
         </div>
 
@@ -61,7 +61,7 @@ function App() {
         <ul className="links">
           <li>
             <a href="tel:1800-200-1234">
-              <img src="src/assets/phone-icon.svg" alt="" />
+              <img src="phone-icon.svg" alt="" />
               <p>
                 {`Toll free `}
                 <span>{`1800 200 1234`}</span>
@@ -71,14 +71,14 @@ function App() {
 
           <li>
             <a href="https://www.facebook.com/cripumps">
-              <img src="src/assets/facebook-icon.svg" alt="" />
+              <img src="facebook-icon.svg" alt="" />
               <p>{`www.facebook.com/cripumps`}</p>
             </a>
           </li>
 
           <li>
             <a href="https://www.crigroups.com">
-              <img src="src/assets/website-icon.svg" alt="" />
+              <img src="website-icon.svg" alt="" />
               <p>{`www.crigroups.com`}</p>
             </a>
           </li>
