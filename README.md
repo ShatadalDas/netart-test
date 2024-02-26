@@ -1,9 +1,15 @@
-# React + Vite
+This project is created using the cli command
+```sh
+pnpm create vite
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Steps to run the app locally
 
-Currently, two official plugins are available:
+- clone the repo
+- run `pnpm add` or `yarn add` or `npm install`
+- run `pnpm dev` or `yarn dev` or `npm run dev`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# netart-test
+## Project Info
+
+This is an assignment, given to me by 
+[NetArt](https://internshala.com/company/netart-1566200310) as to check by web dev skills.
